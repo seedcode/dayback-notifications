@@ -1,6 +1,25 @@
 crypt.jsonPCallback.notifications({
   notifications: [
     {
+      id: "116",
+      date: "2024-03-13",
+      author: "John Sindelar",
+      platforms: ["DBKO", "DBKSF", "DBKFMWD", "DBKFMJS", "DBKFM"],
+      title: "Pie Charts for Analytics",
+      subhead: "Mar 13th, 2024 CUSTOMIZATION",
+      imageSourceURL:
+        "https://dayback.com/wp-content/uploads/2024/04/pieInApp.jpg",
+      imageClickURL:
+        "https://dayback.com/listing/add-pie-chart-function-to-calendar-analytics/?utm_source=inapp",
+      content:
+        "Gabi has published her first extension for DayBack and it's great: you can now visualize your calendar analytics as a pie chart. This is ideal for comparing the relative weight of different resources, statuses, or anything you're using to breakout your calendar.",
+      buttonTextPrimary: "LEARN MORE",
+      buttonURLPrimary:
+        "https://dayback.com/listing/add-pie-chart-function-to-calendar-analytics/?utm_source=inapp",
+      buttonTextAlt: "",
+      buttonURLAlt: "",
+    },
+    {
       id: "115",
       date: "2024-03-01",
       author: "John Sindelar",
