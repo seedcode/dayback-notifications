@@ -1,6 +1,25 @@
 crypt.jsonPCallback.notifications({
   notifications: [
     {
+      id: "117",
+      date: "2024-04-14",
+      author: "John Sindelar",
+      platforms: ["DBKO", "DBKSF", "DBKFMWD", "DBKFMJS", "DBKFM"],
+      title: "Search and Filter Bookmarks",
+      subhead: "Apr 14th, 2024 CUSTOMIZATION",
+      imageSourceURL:
+        "https://dayback.com/wp-content/uploads/2024/04/bookmark-searchInApp.jpg",
+      imageClickURL:
+        "https://dayback.com/listing/add-search-filter-to-bookmark-list/?utm_source=inapp",
+      content:
+        "If you manage a lot of bookmarks, this modification makes it easy to find the bookmark you are looking for using a text search filter. This app action also adds a Shift+B keyboard shortcut which quickly accesses the bookmark list.",
+      buttonTextPrimary: "DETAILS",
+      buttonURLPrimary:
+        "https://dayback.com/listing/add-search-filter-to-bookmark-list/?utm_source=inapp",
+      buttonTextAlt: "",
+      buttonURLAlt: "",
+    },
+    {
       id: "116",
       date: "2024-03-13",
       author: "John Sindelar",
