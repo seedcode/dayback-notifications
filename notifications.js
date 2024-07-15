@@ -8,7 +8,7 @@ crypt.jsonPCallback.notifications({
       title: "BETA Mode - Preview New Versions of DayBack",
       subhead: "July 15th, 2024 NEW FEATURE",
       imageSourceURL:
-        "https://updates.dayback.com/wp-content/uploads/2024/07/BETASTATUS_Giftwspace3.png",
+        "https://dayback.com/wp-content/uploads/2024/07/BetaInApp.png",
       imageClickURL:
         "https://docs.dayback.com/article/317-beta-mode",
       content:
