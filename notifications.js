@@ -20,6 +20,25 @@ crypt.jsonPCallback.notifications({
       buttonURLAlt: "",
     },
     {
+      id: "117.5",
+      date: "2024-06-01",
+      author: "John Sindelar",
+      platforms: ["DBKO", "DBKSF", "DBKFMWD", "DBKFMJS", "DBKFM"],
+      title: "To-Do Lists in DayBack",
+      subhead: "June 1st, 2024 NEW ADD ON",
+      imageSourceURL:
+        "https://dayback.com/wp-content/uploads/2024/07/ToDoInApp.png",
+      imageClickURL:
+        "https://dayback.com/to-do-lists-in-dayback-calendar/?utm_source=inapp",
+      content:
+        "Now add to-do lists inside your calendar. Filter your lists, cross items off, to drag them to dates and times in DayBack to schedule them.",
+      buttonTextPrimary: "SEE IT IN ACTION",
+      buttonURLPrimary:
+        "https://dayback.com/to-do-lists-in-dayback-calendar/?utm_source=inapp",
+      buttonTextAlt: "",
+      buttonURLAlt: "",
+    },
+    {
       id: "117",
       date: "2024-04-14",
       author: "John Sindelar",
