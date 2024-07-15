@@ -1,6 +1,25 @@
 crypt.jsonPCallback.notifications({
   notifications: [
     {
+      id: "118",
+      date: "2024-07-15",
+      author: "John Sindelar",
+      platforms: ["DBKO", "DBKSF", "DBKFMWD", "DBKFMJS", "DBKFM"],
+      title: "BETA Mode - Preview New Versions of DayBack",
+      subhead: "July 15th, 2024 NEW FEATURE",
+      imageSourceURL:
+        "https://updates.dayback.com/wp-content/uploads/2024/07/BETASTATUS_Giftwspace3.png",
+      imageClickURL:
+        "https://docs.dayback.com/article/317-beta-mode",
+      content:
+        "New: beta mode allows an admin to run DayBack using our pre-release codebase. This is helpful to preview new features before they are released and to test the compatibility of customizations with upcoming core codebase changes.",
+      buttonTextPrimary: "LEARN MORE",
+      buttonURLPrimary:
+        "https://docs.dayback.com/article/317-beta-mode",
+      buttonTextAlt: "",
+      buttonURLAlt: "",
+    },
+    {
       id: "117",
       date: "2024-04-14",
       author: "John Sindelar",
