@@ -1,6 +1,25 @@
 crypt.jsonPCallback.notifications({
   notifications: [
     {
+      id: "119",
+      date: "2024-08-26",
+      author: "John Sindelar",
+      platforms: ["DBKO", "DBKSF", "DBKFMWD", "DBKFMJS", "DBKFM"],
+      title: "New Expanded Week Views",
+      subhead: "Aug 26th, 2024 NEW FEATURE",
+      imageSourceURL:
+        "https://dayback.com/wp-content/uploads/2024/08/TwoWeekInApp.jpg",
+      imageClickURL:
+        "https://dayback.com/new-two-or-three-week-view/?utm_source=inapp",
+      content:
+        "DayBack's new two and three-week views lets you see around the corners of your schedule. Now keep next week in view while you're planning this one.",
+      buttonTextPrimary: "DETAILS",
+      buttonURLPrimary:
+        "https://dayback.com/new-two-or-three-week-view/?utm_source=inapp",
+      buttonTextAlt: "",
+      buttonURLAlt: "",
+    },
+    {
       id: "118",
       date: "2024-07-15",
       author: "John Sindelar",
