@@ -1,6 +1,25 @@
 crypt.jsonPCallback.notifications({
   notifications: [
     {
+      id: "121",
+      date: "2024-12-08",
+      author: "John Sindelar",
+      platforms: ["DBKO", "DBKSF", "DBKFMWD", "DBKFMJS", "DBKFM"],
+      title: "Add Resource-Specic Thresholds to Analytics",
+      subhead: "Dec 8th, 2024 CUSTOMIZATION",
+      imageSourceURL:
+        "https://dayback.com/wp-content/uploads/2024/12/interactive-analyticsInApp.jpg",
+      imageClickURL:
+        "https://dayback.com/enhance-analytics-with-resource-specific-thresholds/?utm_source=inapp",
+      content:
+        "Chart your performance or capacity over time using goals and thresholds specific to each individual or resource.",
+      buttonTextPrimary: "Details & Download",
+      buttonURLPrimary:
+        "https://dayback.com/enhance-analytics-with-resource-specific-thresholds/?utm_source=inapp",
+      buttonTextAlt: "",
+      buttonURLAlt: "",
+    },
+    {
       id: "120",
       date: "2024-12-07",
       author: "John Sindelar",
@@ -10,7 +29,7 @@ crypt.jsonPCallback.notifications({
       imageSourceURL:
         "https://dayback.com/wp-content/uploads/2024/12/ToggleProjectsInApp.jpg",
       imageClickURL:
-        "https://dayback.com/toggle-between-people-and-projects//?utm_source=inapp",
+        "https://dayback.com/toggle-between-people-and-projects/?utm_source=inapp",
       content:
         "Swap people for projects and base your scheduling grids on people, projects, or any category that lets you see your capacity at a glance.",
       buttonTextPrimary: "LEARN MORE",
