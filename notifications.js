@@ -1,6 +1,25 @@
 crypt.jsonPCallback.notifications({
   notifications: [
     {
+      id: "120",
+      date: "2024-12-07",
+      author: "John Sindelar",
+      platforms: ["DBKO", "DBKSF", "DBKFMWD", "DBKFMJS", "DBKFM"],
+      title: "Toggle Between People and Projects",
+      subhead: "Dec 7th, 2024 CUSTOMIZATION",
+      imageSourceURL:
+        "https://dayback.com/wp-content/uploads/2024/12/ToggleProjectsInApp.jpg",
+      imageClickURL:
+        "https://dayback.com/toggle-between-people-and-projects//?utm_source=inapp",
+      content:
+        "Swap people for projects and base your scheduling grids on people, projects, or any category that lets you see your capacity at a glance.",
+      buttonTextPrimary: "LEARN MORE",
+      buttonURLPrimary:
+        "https://dayback.com/toggle-between-people-and-projects/?utm_source=inapp",
+      buttonTextAlt: "",
+      buttonURLAlt: "",
+    },
+    {
       id: "119",
       date: "2024-08-26",
       author: "John Sindelar",
