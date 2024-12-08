@@ -5,7 +5,7 @@ crypt.jsonPCallback.notifications({
       date: "2024-12-08",
       author: "John Sindelar",
       platforms: ["DBKO", "DBKSF", "DBKFMWD", "DBKFMJS", "DBKFM"],
-      title: "Add Resource-Specic Thresholds to Analytics",
+      title: "Add Resource-Specific Thresholds to Analytics",
       subhead: "Dec 8th, 2024 CUSTOMIZATION",
       imageSourceURL:
         "https://dayback.com/wp-content/uploads/2024/12/interactive-analyticsInApp.jpg",
