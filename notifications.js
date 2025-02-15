@@ -1,10 +1,29 @@
 crypt.jsonPCallback.notifications({
   notifications: [
     {
+      id: "123",
+      date: "2025-02-15",
+      author: "John Sindelar",
+      platforms: ["DBKFMWD", "DBKFMJS", "DBKFM"],
+      title: "Schedule with Maps",
+      subhead: "Feb 15th, 2025 NEW FEATURE",
+      imageSourceURL:
+        "https://dayback.com/wp-content/uploads/2025/02/MapInApp.jpg",
+      imageClickURL:
+        "https://seedcode.com/google-maps-in-filemaker/?utm_source=inapp",
+      content:
+        "DayBack's visual scheduling now includes maps in FileMaker. See distances and drive times in your schedule to make better decisions.",
+      buttonTextPrimary: "See it in Action",
+      buttonURLPrimary:
+        "https://seedcode.com/google-maps-in-filemaker/?utm_source=inapp",
+      buttonTextAlt: "",
+      buttonURLAlt: "",
+    },
+    {
       id: "122",
       date: "2025-02-15",
       author: "John Sindelar",
-      platforms: ["DBKO", "DBKSF", "DBKFMWD", "DBKFMJS", "DBKFM"],
+      platforms: ["DBKO", "DBKSF"],
       title: "Schedule wtih Maps",
       subhead: "Feb 15th, 2025 NEW FEATURE",
       imageSourceURL:
@@ -12,7 +31,7 @@ crypt.jsonPCallback.notifications({
       imageClickURL:
         "https://dayback.com/scheduling-with-maps-in-salesforce/?utm_source=inapp",
       content:
-        "DayBack's visual scheduling now includes maps in Salesforce. See distances and drive times in your schedule and make better decisions.",
+        "DayBack's visual scheduling now includes maps in Salesforce. See distances and drive times in your schedule to make better decisions.",
       buttonTextPrimary: "See it in Action",
       buttonURLPrimary:
         "https://dayback.com/scheduling-with-maps-in-salesforce/?utm_source=inapp",
